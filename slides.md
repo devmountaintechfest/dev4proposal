@@ -193,6 +193,7 @@ layout: section
 - Dedicated social media announcements
 - Access to opt-in attendee list
 - Recognition in opening and closing ceremonies
+- Company information in the summary of the conference
 - Exclusive logo in tech content for 3 months
 
 ---
@@ -202,12 +203,11 @@ layout: section
 # Platinum Sponsor Benefits
 
 - 30-minute speaking slot in main auditorium
-- Premium exhibition space in high-traffic area
 - Company logo prominently displayed on all conference materials
 - 5 full conference passes
 - Dedicated social media announcements
 - Recognition in opening and closing ceremonies
-
+- Company information in the summary of the conference
 ---
 layout: section
 ---
@@ -219,7 +219,7 @@ layout: section
 - 3 full conference passes
 - Social media mentions
 - Recognition in opening ceremony
-
+- Company information in the summary of the conference
 ---
 layout: section
 ---
