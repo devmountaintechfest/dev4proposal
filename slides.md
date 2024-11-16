@@ -1,6 +1,7 @@
 ---
 layout: intro
 class: text-center
+icon: ./images/devlogo.svg
 lineNumbers: false
 info: |
   DevMountain Conference Sponsorship Deck
@@ -107,7 +108,7 @@ layout: section
      <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
         <img src="./images/speakers/4.jpeg" alt="Speaker 4" style="width: 80px; height: 80px; border-radius: 50%;">
         <h4 style="font-size: 14px;">Salah Chalermthai</h4> <!-- Updated font size -->
-        <p style="font-size: 12px;margin-top: -10px;">Throughworks</p> <!-- Updated font size -->
+        <p style="font-size: 12px;margin-top: -10px;">Thoughtworks</p> <!-- Updated font size -->
     </div>
    <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
         <img src="./images/speakers/5.jpeg" alt="Speaker 4" style="width: 80px; height: 80px; border-radius: 50%;">
