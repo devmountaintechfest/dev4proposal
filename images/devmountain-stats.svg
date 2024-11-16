@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+    <!-- Background -->
+    <rect width="800" height="600" fill="#f8fafc" />
+    
+    <!-- Title -->
+    <text x="400" y="50" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">
+        DevMountain Growth Journey 2022-2023
+    </text>
+
+    <!-- Event 1 Box -->
+    <g transform="translate(50, 100)">
+        <!-- Background -->
+        <rect width="220" height="280" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+        <!-- Title -->
+        <text x="110" y="40" font-size="18" font-weight="bold" text-anchor="middle">DevMountain 1</text>
+        <text x="110" y="60" font-size="14" text-anchor="middle" fill="#64748b">Khaoyai 2022</text>
+        <!-- Stats -->
+        <g transform="translate(20, 80)">
+            <text x="0" y="20" font-size="14">Online</text>
+            <text x="180" y="20" font-size="14" text-anchor="end" font-weight="bold">195</text>
+            <text x="0" y="50" font-size="14">Offline</text>
+            <text x="180" y="50" font-size="14" text-anchor="end" font-weight="bold">27</text>
+            <text x="0" y="80" font-size="14">Sponsor</text>
+            <text x="180" y="80" font-size="14" text-anchor="end" font-weight="bold">117</text>
+            <text x="0" y="110" font-size="14">Education</text>
+            <text x="180" y="110" font-size="14" text-anchor="end" font-weight="bold">100</text>
+            <!-- Total -->
+            <rect x="0" y="130" width="180" height="1" fill="#cbd5e1"/>
+            <text x="0" y="150" font-size="16" font-weight="bold">Total</text>
+            <text x="180" y="150" font-size="16" text-anchor="end" font-weight="bold">439</text>
+        </g>
+    </g>
+
+    <!-- Event 2 Box -->
+    <g transform="translate(290, 100)">
+        <!-- Background -->
+        <rect width="220" height="280" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+        <!-- Title -->
+        <text x="110" y="40" font-size="18" font-weight="bold" text-anchor="middle">DevMountain 2</text>
+        <text x="110" y="60" font-size="14" text-anchor="middle" fill="#64748b">Chiangmai 2022</text>
+        <!-- Stats -->
+        <g transform="translate(20, 80)">
+            <text x="0" y="20" font-size="14">Registered</text>
+            <text x="180" y="20" font-size="14" text-anchor="end" font-weight="bold">579</text>
+            <text x="0" y="50" font-size="14">Attended</text>
+            <text x="180" y="50" font-size="14" text-anchor="end" font-weight="bold">260</text>
+            <text x="0" y="80" font-size="14">IT Pros</text>
+            <text x="180" y="80" font-size="14" text-anchor="end" font-weight="bold">203</text>
+            <text x="0" y="110" font-size="14">Attendance Rate</text>
+            <text x="180" y="110" font-size="14" text-anchor="end" font-weight="bold">45%</text>
+        </g>
+    </g>
+
+    <!-- Event 3 Box -->
+    <g transform="translate(530, 100)">
+        <!-- Background -->
+        <rect width="220" height="280" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+        <!-- Title -->
+        <text x="110" y="40" font-size="18" font-weight="bold" text-anchor="middle">DevMountain 3</text>
+        <text x="110" y="60" font-size="14" text-anchor="middle" fill="#64748b">Sriracha 2023</text>
+        <!-- Stats -->
+        <g transform="translate(20, 80)">
+            <text x="0" y="20" font-size="14">Regular Reg.</text>
+            <text x="180" y="20" font-size="14" text-anchor="end" font-weight="bold">187</text>
+            <text x="0" y="50" font-size="14">Sponsor Reg.</text>
+            <text x="180" y="50" font-size="14" text-anchor="end" font-weight="bold">50</text>
+            <text x="0" y="110" font-size="14">Current Total</text>
+            <text x="180" y="110" font-size="14" text-anchor="end" font-weight="bold">237</text>
+        </g>
+    </g>
+
+    <!-- Growth Arrow -->
+    <path d="M50 450 L750 450" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <defs>
+        <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+            <polygon points="0 0, 10 3.5, 0 7" fill="#94a3b8"/>
+        </marker>
+    </defs>
+
+    <!-- Average Stats -->
+    <g transform="translate(100, 500)">
+        <rect width="600" height="80" rx="10" fill="#1e40af"/>
+        <text x="300" y="35" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+            Average Attendance: 312 per event
+        </text>
+        <text x="300" y="60" font-size="14" text-anchor="middle" fill="white">
+            Total Impact: 936 participants across all events
+        </text>
+    </g>
+</svg>
