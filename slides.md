@@ -87,6 +87,14 @@ layout: section
 layout: section
 ---
 
+# Demographics
+
+<img src="./images/demographic.svg" alt="Image 212" style="max-width: 100%; height: 450px;display: block; margin: 0 auto;" />
+
+---
+layout: section
+---
+
 # Speakers
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 0px; justify-items: center;">
