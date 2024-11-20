@@ -87,9 +87,7 @@ layout: section
 layout: section
 ---
 
-# Demographics
-
-<img src="./images/demographic.svg" alt="Image 212" style="max-width: 100%; height: 450px;display: block; margin: 0 auto;" />
+ <img src="./images/demographics.jpg" alt="Image 212" style="max-width: 100%; height: 450px;display: block; margin: 0 auto;" />
 
 ---
 layout: section
