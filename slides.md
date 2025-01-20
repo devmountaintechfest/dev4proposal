@@ -20,7 +20,7 @@ title: DevMountain Conference Sponsorship Opportunities
 # DevMountain Conference 2025
 The Dark Side of Tech
 
-&infin; March 2025 @ Big Co-working Space
+29 March 2025 @ Big Co-working Space
 
 Your chance to be part of the conversation
 
@@ -250,7 +250,7 @@ layout: section
 
 # DevMountain Conference 2025 Agenda
 
-## Date: 8 March 2025
+## Date: 29 March 2025
 ## Location: Big Co-working Space
 
 ---
